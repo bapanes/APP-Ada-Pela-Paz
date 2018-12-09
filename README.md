@@ -1,9 +1,8 @@
 # APP-Ada-Pela-Paz
 Aplicacao de exploracao de dados e predicao de nivel de risco
 
-#################################################
-Primeira versao do preditor de risco
-################################################
+## Primeira versao do preditor de risco
+
 
 ./V0_Working/ 
 
@@ -43,9 +42,9 @@ Outpus: ./V0_Working/
         RetroData.csv (dados iniciais mais novos resultados, retroalimentacao da red neural) 
 
 
-#################################################
-Segunda versao do programa para testes de optimizacao
-#################################################
+
+## Segunda versao do programa para testes de optimizacao
+
 
 ./V1_test/ 
 
@@ -53,9 +52,9 @@ procurado optimizar a rede neuronal desconsiderando casos pouco
 
 atencao nos peaks das diferencas porcentuais (poucos pontos para valores extremos de risco)
 
-#################################################
-Terceira versao do programa para testes de optimizacao
-#################################################
+
+## Terceira versao do programa para testes de optimizacao
+
 
 ./V2_test/
 
